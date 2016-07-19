@@ -5,7 +5,6 @@ Modernizr.load({
     test: Modernizr.touch,
     yep: ['assets/AgroOnline-theme/css/touch.css?v=1'],
     nope: ['assets/AgroOnline-theme/js/waypoints.min.js'],
-    complete
     complete: function() {
         if (Modernizr.touch) {
             //initMobile
