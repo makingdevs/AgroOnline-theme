@@ -3,8 +3,9 @@
 //Modernizr touch detect
 Modernizr.load({
     test: Modernizr.touch,
-    yep: ['../css/touch.css?v=1'],
-    nope: ['waypoints.min.js'],
+    yep: ['assets/AgroOnline-theme/css/touch.css?v=1'],
+    nope: ['assets/AgroOnline-theme/js/waypoints.min.js'],
+    complete
     complete: function() {
         if (Modernizr.touch) {
             //initMobile
