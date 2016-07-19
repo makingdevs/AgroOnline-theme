@@ -3,8 +3,8 @@
 //Modernizr touch detect
 Modernizr.load({
     test: Modernizr.touch,
-    yep: ['app/assets/stylesheets/touch.css?v=1'],
-    nope: ['/assets/waypoints.min.js'],
+    yep: ['../css/touch.css?v=1'],
+    nope: ['waypoints.min.js'],
     complete: function() {
         if (Modernizr.touch) {
             //initMobile
