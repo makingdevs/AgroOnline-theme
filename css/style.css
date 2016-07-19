@@ -1185,12 +1185,12 @@ ol {
 .divider-color {
     width: 100%;
     height: 3px;
-    background-image: url("../img/components/stripe.png");
+    background-image: url("/assets/AgroOnline-theme/img/stripe.png");
     background-repeat: repeat-x;
 }
 
 .divider-color-special {
-    background-image: url("../img/components/strip-top.png");
+    background-image: url("/assets/AgroOnline-theme/img/strip-top.png");
 }
 
 .top-space {
@@ -14168,7 +14168,7 @@ table th[class*="col-"] {
 
 .testimonial-block {
     padding-bottom: 145px;
-    background-image: url('../img/testimonial.jpg');
+    background-image: url('/assets/AgroOnline-theme/img/testimonial.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -26328,7 +26328,7 @@ html#ecwid_html body#ecwid_body .ecwid-minicart div.ecwid-minicart-clickArea {
     min-height: 560px;
     padding-top: 182px;
     text-align: center;
-    background-image: url("../img/testimonial.jpg");
+    background-image: url("/assets/AgroOnline-theme/img/testimonial.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
