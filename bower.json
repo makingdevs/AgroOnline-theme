@@ -5,7 +5,8 @@
    "main": [
              "js/flex.js",
              "css/plugin.css",
-             "css/style.css"
+             "css/style.css",
+             "img/*.*"
            ],
     "moduleType": [],
     "license": "MIT",
