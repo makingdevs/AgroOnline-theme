@@ -1185,7 +1185,7 @@ ol {
 .divider-color {
     width: 100%;
     height: 3px;
-    background-image: url("/assets/AgroOnline-theme/img/stripe.png");
+    background-image: url("/assets/AgroOnline-theme/img/components/stripe.png");
     background-repeat: repeat-x;
 }
 
