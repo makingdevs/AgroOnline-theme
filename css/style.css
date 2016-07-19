@@ -14168,7 +14168,7 @@ table th[class*="col-"] {
 
 .testimonial-block {
     padding-bottom: 145px;
-    background-image: url('../assets/testimonial.jpg');
+    background-image: url('../images/testimonial.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -26328,7 +26328,7 @@ html#ecwid_html body#ecwid_body .ecwid-minicart div.ecwid-minicart-clickArea {
     min-height: 560px;
     padding-top: 182px;
     text-align: center;
-    background-image: url("../assets/testimonial.jpg");
+    background-image: url("../images/testimonial.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
