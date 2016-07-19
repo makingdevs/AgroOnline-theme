@@ -13901,7 +13901,7 @@ table th[class*="col-"] {
     width: 40px;
     height: 40px;
     background-color: #ffffff;
-    background-image: url(../img/logo-small.png);
+    background-image: url(../img/components/logo-small.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 22px 22px;
@@ -21388,7 +21388,7 @@ html#ecwid_html body#ecwid_body .ecwid-minicart div.ecwid-minicart-clickArea {
     margin-top: -20px;
     margin-left: -20px;
     background-color: #ffffff;
-    background-image: url(../img/logo-small.png);
+    background-image: url(../img/components/logo-small.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 22px 22px;
