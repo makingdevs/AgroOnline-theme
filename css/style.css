@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: 'Farm';
-  src:url('http://com.agroonline.s3.amazonaws.com/agroonline/Farm.ttf') format('truetype');
+  src:url('../font/Farm.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
