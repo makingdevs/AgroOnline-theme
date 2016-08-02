@@ -2,13 +2,6 @@
 
 /*! normalize.css v3.0.0 | MIT License | git.io/normalize */
 
-@font-face {
-  font-family: 'farm';
-  src:url('https://com.agroonline.s3.amazonaws.com/agroonline/Farm.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
 html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;
@@ -503,9 +496,6 @@ mark,
     padding: .2em;
 }
 
-.text-farm {
-  font-family: 'farm';
-}
 
 .text-left {
     text-align: left;
