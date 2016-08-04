@@ -4053,7 +4053,7 @@ ol {
         background-color: transparent;
     }
     .z-nav .z-nav__link--active {
-        color: #758594;
+        color: #A4CA6C;
         background-color: transparent;
     }
     .z-nav__list-secondary .z-nav__item {
@@ -11604,7 +11604,7 @@ table th[class*="col-"] {
     font-size: 16px;
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
-    color: #758594;
+    color: #A4CA6C;
 }
 
 .block-title {
@@ -11868,7 +11868,7 @@ table th[class*="col-"] {
     padding-right: 25px;
     padding-left: 20px;
     font-size: 12px;
-    color: #758594;
+    color: #A4CA6C;
 }
 
 .contact-info .contact-info__item[href]:hover {
@@ -11958,12 +11958,13 @@ table th[class*="col-"] {
     text-align: center;
 }
 
+
 .social .social__link {
     display: block;
     width: 38px;
     height: 38px;
     padding-top: 10px;
-    background-color: #758594;
+    background-color: #A4CA6C;
     -webkit-border-radius: 19px;
     -moz-border-radius: 19px;
     border-radius: 19px;
@@ -11971,7 +11972,6 @@ table th[class*="col-"] {
     -o-transition: all 300ms ease-in;
     transition: all 300ms ease-in;
 }
-
 .social .social__link:hover {
     opacity: 0.5;
 }
