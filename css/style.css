@@ -3807,7 +3807,7 @@ ol {
     padding-top: 10px;
     max-height: 152px;
     z-index: 1010;
-    background-color: #A4CA6C;
+    background-color: #254E23;
     -webkit-transition: background 300ms ease-out, -webkit-transform 300ms ease-out;
     -moz-transition: background 300ms ease-out, -moz-transform 300ms ease-out;
     transition: background 300ms ease-out, transform 300ms ease-out;
@@ -5745,7 +5745,7 @@ ol {
 }
 
 .footer {
-    background-color: #A4CA6C;
+    background-color: #254E23;
 }
 
 .footer .success {
