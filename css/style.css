@@ -3791,9 +3791,6 @@ ol {
     }
 }
 
-.header {
-    min-height: 151px;
-}
 
 .header--dark {
     background-color: #34495e;
