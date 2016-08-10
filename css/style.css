@@ -3807,7 +3807,7 @@ ol {
     padding-top: 10px;
     max-height: 152px;
     z-index: 1010;
-    background-color: #254E23;
+    background-color: #FFFFFF;
     -webkit-transition: background 300ms ease-out, -webkit-transform 300ms ease-out;
     -moz-transition: background 300ms ease-out, -moz-transform 300ms ease-out;
     transition: background 300ms ease-out, transform 300ms ease-out;
@@ -3825,7 +3825,7 @@ ol {
     left: 0;
     z-index: 1000;
     width: 100%;
-    background-color: #254E23;
+    background-color: #FFFFFF;
     -webkit-transform: translate3d(0, 0, 0);
     -moz-transform: translate3d(0, 0, 0);
     -ms-transform: translate3d(0, 0, 0);
@@ -3878,8 +3878,7 @@ ol {
 }
 
 .logo img {
-    width: 194px;
-    height: 46px;
+    width: 195px;
     margin-top: 28px;
 }
 
@@ -5745,7 +5744,7 @@ ol {
 }
 
 .footer {
-    background-color: #254E23;
+    background-color: #FFFFFF;
 }
 
 .footer .success {
@@ -25582,7 +25581,7 @@ html#ecwid_html body#ecwid_body .ecwid-minicart div.ecwid-minicart-clickArea {
 }
 
 .product--list-sm .product__photo {
-    max-width: 165px;
+    max-width: 200px;
 }
 
 .product--list-sm .product__control-right {
